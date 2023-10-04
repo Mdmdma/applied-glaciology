@@ -1,4 +1,4 @@
 # Assesment 1
 
 ## Description
-Assesment, pleas do not copy to much
+Assesment, please do not copy to much
